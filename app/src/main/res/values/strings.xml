@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stocks</string>
+    <string name="prompt">Enter Stock Symbol: </string>
+    <string name="symbol">Symbol: </string>
+    <string name="name">Name: </string>
+    <string name="price">Last Trade Price: </string>
+    <string name="time">Last Trade Time: </string>
+    <string name="change">Change: </string>
+    <string name="range">52 Week Range: </string>
+    <string name="blank"> </string>
+    <string name="action_settings">Settings</string>
+</resources>

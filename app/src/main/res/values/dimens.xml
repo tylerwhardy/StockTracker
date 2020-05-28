@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_text">20dp</dimen>
+    <dimen name="gap">500dp</dimen>
+    <dimen name="smallgap">100dp</dimen>
+</resources>
